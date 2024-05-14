@@ -1,0 +1,14 @@
+.buttonsa{
+    width: 120px;
+    height: 30px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonsa:hover{
+    background-color: aliceblue;
+    color: black;
+}
